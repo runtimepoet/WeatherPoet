@@ -7,10 +7,8 @@
    <div  align="center">
       <img src="https://img.shields.io/github/license/runtimepoet/WeatherMaster?style=for-the-badge&color=cba6f7&labelColor=302D41">
       <img src="https://img.shields.io/github/last-commit/runtimepoet/WeatherMaster?style=for-the-badge&color=b1d18a&labelColor=1f3701">
-      <img src="https://img.shields.io/github/release/runtimepoet/WeatherMaster?style=for-the-badge&color=dbc66e&labelColor=3a3000">
       <br>
       <img src="https://img.shields.io/github/stars/runtimepoet/WeatherMaster?style=for-the-badge&color=ffb5a0&labelColor=561f0f">
-      <img src="https://img.shields.io/github/downloads/runtimepoet/WeatherMaster/total?label=Downloads&style=for-the-badge&color=aac7ff&labelColor=0a305f">
 
    </div>
    <div align="center">
@@ -28,7 +26,6 @@
  </div>
 
 <div align="center">
- <a href="https://github.com/runtimepoet/WeatherMaster/releases"><img alt="GitHub" src="https://user-images.githubusercontent.com/69304392/148696068-0cfea65d-b18f-4685-82b5-329a330b1c0d.png" height="80"/></a>
    <a href="https://apt.izzysoft.de/fdroid/index/apk/com.pranshulgg.weather_master_app"><img alt="GitHub" src="preview/download_Btn.png" height="80"/></a></div>
 <br>
 
