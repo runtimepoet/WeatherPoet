@@ -5,7 +5,7 @@
  WeatherMaster
 </h1>
    <div  align="center">
-      <img src="https://img.shields.io/github/license/PranshulGG/WeatherMaster?style=for-the-badge&color=cba6f7&labelColor=302D41">
+      <img src="https://img.shields.io/github/license/runtimepoet/WeatherMaster?style=for-the-badge&color=cba6f7&labelColor=302D41">
       <img src="https://img.shields.io/github/last-commit/PranshulGG/WeatherMaster?style=for-the-badge&color=b1d18a&labelColor=1f3701">
       <img src="https://img.shields.io/github/release/PranshulGG/WeatherMaster?style=for-the-badge&color=dbc66e&labelColor=3a3000">
       <br>
@@ -27,11 +27,11 @@
    </div>
  <div align="center">
 
-[Features](https://github.com/PranshulGG/WeatherMaster?tab=readme-ov-file#-features) • [Contact](https://github.com/PranshulGG/WeatherMaster?tab=readme-ov-file#%EF%B8%8F-contact) • [License](https://github.com/PranshulGG/WeatherMaster?tab=readme-ov-file#%EF%B8%8F-license) • [Translate](https://github.com/PranshulGG/WeatherMaster?tab=readme-ov-file#-translate-the-app-on-crowdin)
+[Features](https://github.com/runtimepoet/WeatherMaster?tab=readme-ov-file#-features) • [Contact](https://github.com/runtimepoet/WeatherMaster?tab=readme-ov-file#%EF%B8%8F-contact) • [License](https://github.com/runtimepoet/WeatherMaster?tab=readme-ov-file#%EF%B8%8F-license) • [Translate](https://github.com/runtimepoet/WeatherMaster?tab=readme-ov-file#-translate-the-app-on-crowdin)
  </div>
 
 <div align="center">
- <a href="https://github.com/PranshulGG/WeatherMaster/releases"><img alt="GitHub" src="https://user-images.githubusercontent.com/69304392/148696068-0cfea65d-b18f-4685-82b5-329a330b1c0d.png" height="80"/></a>
+ <a href="https://github.com/runtimepoet/WeatherMaster/releases"><img alt="GitHub" src="https://user-images.githubusercontent.com/69304392/148696068-0cfea65d-b18f-4685-82b5-329a330b1c0d.png" height="80"/></a>
    <a href="https://apt.izzysoft.de/fdroid/index/apk/com.pranshulgg.weather_master_app"><img alt="GitHub" src="preview/download_Btn.png" height="80"/></a></div>
 <br>
 
@@ -61,7 +61,7 @@
 # ✉️ Contact
 
 For any questions or feedback, feel free to open an issue on GitHub or contact
-pranshul.devmain@gmail.com
+runtimepoet910601@gmail.com
 
 # ©️ License
 
