@@ -13,7 +13,6 @@
    </div>
    <div align="center">
 
-<img src="https://shields.rbtlog.dev/simple/com.pranshulgg.weather_master_app?style=for-the-badge" alt="RB Status">
    </div>
 
    <div align="center">
