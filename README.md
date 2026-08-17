@@ -6,14 +6,11 @@
 </h1>
    <div  align="center">
       <img src="https://img.shields.io/github/license/runtimepoet/WeatherMaster?style=for-the-badge&color=cba6f7&labelColor=302D41">
-      <img src="https://img.shields.io/github/last-commit/PranshulGG/WeatherMaster?style=for-the-badge&color=b1d18a&labelColor=1f3701">
-      <img src="https://img.shields.io/github/release/PranshulGG/WeatherMaster?style=for-the-badge&color=dbc66e&labelColor=3a3000">
+      <img src="https://img.shields.io/github/last-commit/runtimepoet/WeatherMaster?style=for-the-badge&color=b1d18a&labelColor=1f3701">
+      <img src="https://img.shields.io/github/release/runtimepoet/WeatherMaster?style=for-the-badge&color=dbc66e&labelColor=3a3000">
       <br>
-      <img src="https://img.shields.io/github/stars/PranshulGG/WeatherMaster?style=for-the-badge&color=ffb5a0&labelColor=561f0f">
-      <img src="https://img.shields.io/github/downloads/PranshulGG/WeatherMaster/total?label=Downloads&style=for-the-badge&color=aac7ff&labelColor=0a305f">
-      <a href="https://discord.gg/sSW2E4nqmn">
- <img src="https://img.shields.io/discord/1302477023410782229?label=Discord&style=for-the-badge&color=ffb0c8&labelColor=541d32">
-</a>
+      <img src="https://img.shields.io/github/stars/runtimepoet/WeatherMaster?style=for-the-badge&color=ffb5a0&labelColor=561f0f">
+      <img src="https://img.shields.io/github/downloads/runtimepoet/WeatherMaster/total?label=Downloads&style=for-the-badge&color=aac7ff&labelColor=0a305f">
 
    </div>
    <div align="center">
@@ -27,7 +24,7 @@
    </div>
  <div align="center">
 
-[Features](https://github.com/runtimepoet/WeatherMaster?tab=readme-ov-file#-features) • [Contact](https://github.com/runtimepoet/WeatherMaster?tab=readme-ov-file#%EF%B8%8F-contact) • [License](https://github.com/runtimepoet/WeatherMaster?tab=readme-ov-file#%EF%B8%8F-license) • [Translate](https://github.com/runtimepoet/WeatherMaster?tab=readme-ov-file#-translate-the-app-on-crowdin)
+[Features](https://github.com/runtimepoet/WeatherMaster?tab=readme-ov-file#-features) • [Contact](https://github.com/runtimepoet/WeatherMaster?tab=readme-ov-file#%EF%B8%8F-contact) • [License](https://github.com/runtimepoet/WeatherMaster?tab=readme-ov-file#%EF%B8%8F-license)
  </div>
 
 <div align="center">
@@ -46,17 +43,10 @@
 <img src="preview/2.png"  width="250">
 <img src="preview/prev_5.png"  width="250">
 <img src="preview/prev_1.png"  width="250">
-<img src="" width="250">
-
 </div>
 
 <br>
 
-# 🌐 Translate the app on [Crowdin](https://crowdin.com/project/weathermaster)
-
-- **Feel free to open an issue if you want to request a language**
-
-<a href="https://crowdin.com/project/weathermaster"><img src="https://badges.crowdin.net/weathermaster/localized.svg" width="200"> </a>
 
 # ✉️ Contact
 
