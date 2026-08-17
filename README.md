@@ -24,8 +24,6 @@
 [Features](https://github.com/runtimepoet/WeatherMaster?tab=readme-ov-file#-features) • [Contact](https://github.com/runtimepoet/WeatherMaster?tab=readme-ov-file#%EF%B8%8F-contact) • [License](https://github.com/runtimepoet/WeatherMaster?tab=readme-ov-file#%EF%B8%8F-license)
  </div>
 
-<div align="center">
-   <a href="https://apt.izzysoft.de/fdroid/index/apk/com.pranshulgg.weather_master_app"><img alt="GitHub" src="preview/download_Btn.png" height="80"/></a></div>
 <br>
 
 ![app_thumbnail](preview/new_thumbnail.png)
